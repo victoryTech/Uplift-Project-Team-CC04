@@ -20,6 +20,12 @@ All resources and assignments for Team-CC04 for the 2020 Uplift Project
 > <a href="https://www.geeksforgeeks.org/linear-search/">Linear Search</a> <br>
 > <a href="https://www.geeksforgeeks.org/binary-search/">Binary Search</a> <br>
 
+## Week 4 Resources:
+> <a href="https://www.javatpoint.com/cpp-oops-concepts">Class and Object</a> <br>
+> <a href="https://www.javatpoint.com/cpp-inheritance">Inheritance</a> <br>
+> <a href="https://www.javatpoint.com/cpp-polymorphism">Polymorphism</a> <br>
+><a href="https://www.javatpoint.com/interfaces-in-cpp">Abstraction</a> <br>
+
 ## Resources for Competitive Programming:
 > <a href="https://www.codechef.com/LEARNDSA"> Codechef DSA Series </a><br>
 > <a href="https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm"> DS Algo Theory </a> <br>
